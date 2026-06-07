@@ -100,7 +100,7 @@ body {
 .card-info h3 { margin: 0 0 5px 0; font-size: 13px; font-weight: 600; }
 .card-info .price { margin: 0; font-size: 13px; font-weight: bold; }
 
-.bg-papas { background-image: url('/Images/papasnativas.jpg'); }
+.bg-papas { background-image: url('Images/papasnativas.jpg'); }
 .bg-huevos { background-image: url('https://unsplash.com'); }
 .bg-hamburguesa { background-image: url('https://unsplash.com'); }
 
